@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+.contactContent{
+
+}
+
+.contactContent {
+    display: grid;
+    grid-template-areas:
+     "t t"
+     "f c";
+    /*grid-template-rows: 100% auto;*/
+    grid-template-columns: 78% 22%;
+}
+.formsContentDiv{
+    grid-area: f;
+}
+.infoContentDiv{
+    grid-area:c;
+}
+.infoContentDiv div{
+    margin-top: 5px;
+
+
+}
+
+.forms {
+    margin-left: 50px;
+
+}
+
+.formElements {
+    margin-top: 5px;
+}
+.formElements span {
+    margin-right: 10px;
+}
+
+.FormButton {
+    width: 120px;
+    height: 50px;
+    border: #F0542C 1px solid;
+    color:#F0542C;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    /*margin-left: 300px;*/
+}
+
+.FormButton:hover {
+    width: 120px;
+    height: 50px;
+    border: #F0542C 1px solid;
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #F0542C;
+}
+
+.mainText{
+    text-transform: uppercase;
+    font-size: 70px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    text-align: center;
+    grid-area: t;
+}

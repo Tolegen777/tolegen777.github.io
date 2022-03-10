@@ -1,0 +1,23 @@
+.parent {
+
+
+}
+
+.orderNow {
+
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 400px;
+
+    /*background-color: rgba(0, 0, 0, 0.5);*/
+
+
+    width:100%;
+    /*background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('landingpagepic.jpg');*/
+
+
+
+
+    /*opacity: 0.1;*/
+    /*grid-gap: 20px;*/
+}

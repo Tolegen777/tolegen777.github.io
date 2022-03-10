@@ -1,0 +1,7 @@
+.wrapper {
+    grid-area: h;
+    display: grid;
+    grid-template-columns:  2fr 4fr;
+    /*background-color: gold;*/
+}
+

@@ -1,0 +1,55 @@
+* {
+    box-sizing: border-box;
+}
+
+.happyCustomers {
+    background-color: white;
+    text-align: center;
+}
+
+.main {
+    color: goldenrod;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+
+.secondText {
+    /*width: 100%;*/
+    text-transform: uppercase;
+    font-size: 60px;
+    font-weight: 650;
+    height: 20px;
+    margin-bottom: 100px;
+}
+
+.text{
+    /*text-align: center;*/
+    /*margin-left: 300px;*/
+    /*width: 60%;*/
+    margin: auto 300px;
+    padding-top: 30px;
+    color: grey;
+    font-size: 18px;
+}
+
+.stars img{
+    width: 20px;
+    margin-top: 4px;
+}
+
+.stars img:hover{
+    width: 22px;
+    /*filter: brightness(0%);*/
+
+
+}
+
+.peopleProfile {
+    margin-top: 60px;
+}
+
+.peopleProfile img{
+    margin-bottom: 30px;
+}
+

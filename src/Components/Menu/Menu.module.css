@@ -1,0 +1,13 @@
+.menu{
+
+}
+
+.menuMain {
+    text-transform: uppercase;
+    color: white;
+    font-size: 100px;
+    display:block;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 50px;
+}

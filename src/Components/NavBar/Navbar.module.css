@@ -1,0 +1,31 @@
+.wrapper {
+    grid-area: n;
+    /*display: grid;*/
+    /*grid-template-columns: repeat(5, 20%);*/
+    /*!*grid-column-gap: 10px;*!*/
+    /*background-color: black;*/
+    padding-top: 40px;
+    /*background-color: black;*/
+    padding-left: 20px;
+
+}
+.wrapper span a{
+    color: white;
+    text-decoration: none;
+
+
+}
+.wrapper span {
+    margin-top: 40px;
+    margin-right: 15px;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+
+
+.wrapper span a.active {
+    color: gold;
+
+
+}

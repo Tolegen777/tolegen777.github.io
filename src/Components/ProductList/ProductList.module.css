@@ -1,0 +1,58 @@
+.burgerList {
+
+ /*display: inline-block;*/
+ /*   width: 500px;*/
+ /*   height: 300px;*/
+ /*   margin-left: 150px;*/
+
+    /*padding: 5px;*/
+    /*grid-template-columns: 200px 200px;*/
+
+
+}
+
+.parent{
+    /*width: 50%;*/
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    grid-gap: 20px;
+    /*border: 1px solid grey;*/
+    width: 80%;
+    /*margin-left: 60px;*/
+}
+
+.content{
+    /*display: flex;*/
+    /*margin: 10px;*/
+    /*border: 1px solid orange;*/
+
+}
+
+.image img{
+    width: 166px;
+    height: 166px;
+    border: 2px solid black;
+    border-radius: 100px;
+    /*display: flex;*/
+    /*margin: 10px;*/
+    /*border: 1px solid red;*/
+}
+
+.name {
+  font-weight: bold;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+
+.description {
+  color: grey;
+    margin-top: 20px;
+    font-size: 15px;
+
+}
+
+.price {
+    font-size: 23px;
+    color: orangered;
+    font-weight: bold;
+}

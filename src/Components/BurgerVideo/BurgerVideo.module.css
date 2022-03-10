@@ -1,0 +1,90 @@
+.burgerVideo {
+    /*background-color: orange;*/
+    width: 100%;
+    height: 600px;
+
+
+
+
+}
+
+.parent {
+   width: 100%;
+    height: 100%;
+    background-repeat: no-repeat;
+    /*background-position: center;*/
+    /*background-size: cover;*/
+    background-size: 100% 100%;
+    position: relative;
+}
+
+.text {
+    color: white;
+    top: 100px;
+    left: 500px;
+    position: absolute;
+    z-index: 10;
+    text-align: center;
+}
+
+
+
+.mainText {
+    font-weight: bolder;
+    font-size: 70px;
+    height: 65px;
+}
+
+.secondText {
+    padding-top: 30px;
+  font-size: 30px;
+}
+
+.playButton {
+    left: 670px;
+    top:350px;
+    position: absolute;
+}
+
+
+
+.playBtnImg {
+    width: 80px;
+
+}
+
+
+
+.playBtnImg:hover {
+    width: 82px;
+
+}
+
+/*.parentIframe {*/
+/*    !*position: relative;*!*/
+/*    !*width: 100%;*!*/
+/*    !*height: 100%;*!*/
+/*}*/
+
+/*.parentIframe iframe {*/
+/*  !*position: absolute;*!*/
+/*  !*  top:0;*!*/
+/*  !*  left: 0;*!*/
+/*  !*  width: 100%;*!*/
+/*  !*  height: 100%;*!*/
+/*  !*  object-fit: cover;*!*/
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*    object-fit: cover;*/
+/*    !*position: fixed;*!*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*    bottom: 0;*/
+/*    z-index: -1;*/
+/*}*/
+
+/*.parentIframe div {*/
+/*    !*position: absolute;*!*/
+/*}*/
+

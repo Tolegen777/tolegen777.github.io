@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+}
+
+.footer {
+    grid-area: f;
+    background-color: lightgray;
+    /*margin-top: 50px;*/
+
+}
+
+.footer hr{
+   color: darkgrey;
+
+    /*margin-top: 50px;*/
+
+}
+
+.secondWrapper {
+    margin-top: 100px;
+    display: grid;
+
+    grid-template-columns: 20% 20% 20%;
+    grid-gap: 160px;
+    margin-left: 160px;
+    margin-bottom: 200px;
+}
+
+
+
+
+.stayConnected {
+
+}
+
+.main {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.signIn {
+  color: orangered;
+    font-weight: 400;
+    font-size: 20px;
+    text-decoration: underline;
+}
+.textBurgersCompany {
+    font-weight: 400;
+    font-size: 20px;
+    color: orangered;
+    text-transform: uppercase;
+}
+
+.text {
+    color: grey;
+    font-size: 18px;
+}
+
+.lastInfo {
+    text-align: center;
+    margin: 50px 100px 0 100px;
+}
+
+
+

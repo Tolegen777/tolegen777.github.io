@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+
+.text{
+    color:white;
+    margin-left: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    /*display: inline-block;*/
+    text-decoration: underline;
+
+}
+
+.text:hover{
+    color:goldenrod;
+
+    /*display: inline-block;*/
+
+}
+
+.loginPage {
+    /*background-color:gold;*/
+    /*width: 40px;*/
+    /*color: white;*/
+
+    /*!*border: 3px solid red;*!*/
+    /*border: 2px solid black;*/
+    /*border-radius: 100px;*/
+    color: white;
+}
+
+.userIcon {
+    text-transform: uppercase;
+    color: white;
+    border: 2px solid rebeccapurple;
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    text-align: center;
+    padding-top:3px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 40px;
+    background-color: rebeccapurple;
+}
+
+.logout {
+    /*color: white;*/
+    /*font-size: 14px;*/
+    /*font-weight: 600;*/
+    /*background-color: grey;*/
+    /*opacity: 80%;*/
+    color: black;
+    font-size: 15px;
+    font-weight: 500;
+}

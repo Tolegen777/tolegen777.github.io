@@ -1,0 +1,23 @@
+.parent {
+    background-color: lightgray;
+    text-align: center;
+}
+
+.main {
+    font-size: 32px;
+    font-weight: 500;
+}
+
+
+.address{
+    color: grey;
+    font-size: 18px;
+}
+
+.phone {
+    /*width: 100%;*/
+    font-size: 23px;
+    color: orangered;
+}
+
+

@@ -1,0 +1,28 @@
+{
+  "registeredUsers": [
+    {
+      "id": 0,
+      "login": "tolegenmukan@gmail.com",
+      "password": "tolik123"
+    },
+    {
+      "id": 1,
+      "login": "mukantolik@gmail.com",
+      "password": "tolik12345"
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 31,
+      "login": "ddd",
+      "password": "dds"
+    }
+  ]
+}
